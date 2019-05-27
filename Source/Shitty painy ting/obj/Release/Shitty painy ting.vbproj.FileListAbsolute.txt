@@ -1,0 +1,12 @@
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Release\Shitty painy ting.exe.config
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Release\Shitty painy ting.exe
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Release\Shitty painy ting.pdb
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Release\Shitty painy ting.xml
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty_painy_ting.Form1.resources
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty_painy_ting.Resources.resources
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty painy ting.vbproj.GenerateResource.cache
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty painy ting.vbproj.CoreCompileInputs.cache
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty painy ting.exe
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty painy ting.xml
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty painy ting.pdb
+E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Release\Shitty painy ting.vbprojAssemblyReference.cache
