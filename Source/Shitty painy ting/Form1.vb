@@ -224,14 +224,28 @@ Public Class Form1
             End If
             '-------------------------------------------------------------------------------------------------------------------------
             Select Case ComboShape.SelectedItem
+                Case "Cluster"
+                    Dim cluster_density As Integer = TrackBarCluster.Value
+
+                    For i = 1 To 5
+                        Dim x As Integer = Rnd() * cluster_density
+                        Dim y As Integer = Rnd() * cluster_density
+
+                        graphics.FillEllipse(mybrush, New Rectangle(Windows.Forms.Cursor.Position.X - Me.Left - 30 - x, Windows.Forms.Cursor.Position.Y - Me.Top - 30 - y, Int((Maxx.Value - PenSizeX.Value + 1) * Rnd() + PenSizeX.Value), Int((Maxy.Value - PenSizeY.Value + 1) * Rnd() + PenSizeY.Value)))
+
+                    Next
+                Case "Big Circle"
+                    graphics.FillEllipse(mybrush, New Rectangle(Windows.Forms.Cursor.Position.X - Me.Left - 30, Windows.Forms.Cursor.Position.Y - Me.Top - 30, (Int((Maxx.Value - PenSizeX.Value + 1) * Rnd() + PenSizeX.Value)) * 3, (Int((Maxy.Value - PenSizeY.Value + 1) * Rnd() + PenSizeY.Value)) * 3))
                 Case "Rubber"
                     TBBlue.BackColor = System.Drawing.Color.White
                     TBRed.BackColor = System.Drawing.Color.White
                     TBGreen.BackColor = System.Drawing.Color.White
+                    Opacity.BackColor = System.Drawing.Color.White
 
                     TBRed.Value = 255
                     TBGreen.Value = 255
                     TBBlue.Value = 255
+                    Opacity.Value = 255
                     graphics.FillEllipse(mybrush, New Rectangle(Windows.Forms.Cursor.Position.X - Me.Left - 30, Windows.Forms.Cursor.Position.Y - Me.Top - 30, Int((Maxx.Value - PenSizeX.Value + 1) * Rnd() + PenSizeX.Value), Int((Maxy.Value - PenSizeY.Value + 1) * Rnd() + PenSizeY.Value)))
                 Case "Line Revised"
 
@@ -468,6 +482,36 @@ Public Class Form1
 
 
 
+
+    End Sub
+
+    Private Sub ComboShape_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboShape.SelectedIndexChanged
+
+        If ComboShape.SelectedItem = "Cluster" And lblClusterDesity.Visible = False Then
+            lblCluster.Visible = Not lblCluster.Visible
+            lblClusterDesity.Visible = Not lblClusterDesity.Visible
+            TrackBarCluster.Visible = Not TrackBarCluster.Visible
+            GroupBox1.Height = 240
+            GroupBox2.Location = New Point(12, 300)
+
+        End If
+
+        If ComboShape.SelectedItem <> "Cluster" Then
+            lblCluster.Visible = Not lblCluster.Visible
+            lblClusterDesity.Visible = Not lblClusterDesity.Visible
+            TrackBarCluster.Visible = Not TrackBarCluster.Visible
+            GroupBox1.Height = 160
+            GroupBox2.Location = New Point(12, 218)
+        End If
+
+    End Sub
+
+    
+    Private Sub TrackBarCluster_Scroll(sender As Object, e As EventArgs) Handles TrackBarCluster.Scroll
+        lblClusterDesity.Text = TrackBarCluster.Value
+    End Sub
+
+    Private Sub SaveToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles SaveToolStripMenuItem1.Click
 
     End Sub
 End Class

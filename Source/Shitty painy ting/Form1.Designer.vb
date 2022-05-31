@@ -50,6 +50,9 @@ Partial Class Form1
         Me.Maxylbl = New System.Windows.Forms.Label()
         Me.TBBlue = New System.Windows.Forms.TrackBar()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.lblClusterDesity = New System.Windows.Forms.Label()
+        Me.lblCluster = New System.Windows.Forms.Label()
+        Me.TrackBarCluster = New System.Windows.Forms.TrackBar()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.DeleteAllThatShit = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -86,6 +89,7 @@ Partial Class Form1
         CType(Me.TBGreen, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TBBlue, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.TrackBarCluster, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PenSizeX, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Maxx, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Maxy, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -119,7 +123,7 @@ Partial Class Form1
         Me.GroupBox2.Controls.Add(Me.TBGreen)
         Me.GroupBox2.Controls.Add(Me.Maxylbl)
         Me.GroupBox2.Controls.Add(Me.TBBlue)
-        Me.GroupBox2.Location = New System.Drawing.Point(12, 223)
+        Me.GroupBox2.Location = New System.Drawing.Point(12, 301)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(305, 366)
         Me.GroupBox2.TabIndex = 27
@@ -359,6 +363,9 @@ Partial Class Form1
         '
         'GroupBox1
         '
+        Me.GroupBox1.Controls.Add(Me.lblClusterDesity)
+        Me.GroupBox1.Controls.Add(Me.lblCluster)
+        Me.GroupBox1.Controls.Add(Me.TrackBarCluster)
         Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Controls.Add(Me.DeleteAllThatShit)
         Me.GroupBox1.Controls.Add(Me.Label4)
@@ -377,10 +384,39 @@ Partial Class Form1
         Me.GroupBox1.Controls.Add(Me.PenSizeY)
         Me.GroupBox1.Location = New System.Drawing.Point(12, 51)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(305, 166)
+        Me.GroupBox1.Size = New System.Drawing.Size(312, 244)
         Me.GroupBox1.TabIndex = 26
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Brush"
+        '
+        'lblClusterDesity
+        '
+        Me.lblClusterDesity.AutoSize = True
+        Me.lblClusterDesity.Location = New System.Drawing.Point(98, 161)
+        Me.lblClusterDesity.Name = "lblClusterDesity"
+        Me.lblClusterDesity.Size = New System.Drawing.Size(62, 13)
+        Me.lblClusterDesity.TabIndex = 29
+        Me.lblClusterDesity.Text = "Percentage"
+        '
+        'lblCluster
+        '
+        Me.lblCluster.AutoSize = True
+        Me.lblCluster.Location = New System.Drawing.Point(13, 161)
+        Me.lblCluster.Name = "lblCluster"
+        Me.lblCluster.Size = New System.Drawing.Size(77, 13)
+        Me.lblCluster.TabIndex = 29
+        Me.lblCluster.Text = "Cluster Density"
+        '
+        'TrackBarCluster
+        '
+        Me.TrackBarCluster.BackColor = System.Drawing.Color.White
+        Me.TrackBarCluster.Location = New System.Drawing.Point(6, 187)
+        Me.TrackBarCluster.Maximum = 100
+        Me.TrackBarCluster.Minimum = 1
+        Me.TrackBarCluster.Name = "TrackBarCluster"
+        Me.TrackBarCluster.Size = New System.Drawing.Size(287, 45)
+        Me.TrackBarCluster.TabIndex = 30
+        Me.TrackBarCluster.Value = 50
         '
         'Button1
         '
@@ -412,7 +448,7 @@ Partial Class Form1
         'ComboShape
         '
         Me.ComboShape.FormattingEnabled = True
-        Me.ComboShape.Items.AddRange(New Object() {"Elipse", "Rectangle", "Line", "Point to Point", "Line Revised", "Rubber"})
+        Me.ComboShape.Items.AddRange(New Object() {"Elipse", "Big Circle", "Rectangle", "Line", "Point to Point", "Line Revised", "Rubber", "Cluster"})
         Me.ComboShape.Location = New System.Drawing.Point(80, 127)
         Me.ComboShape.Name = "ComboShape"
         Me.ComboShape.Size = New System.Drawing.Size(115, 21)
@@ -579,7 +615,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(810, 601)
+        Me.ClientSize = New System.Drawing.Size(810, 725)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.MenuStrip1)
@@ -604,6 +640,7 @@ Partial Class Form1
         CType(Me.TBBlue, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
+        CType(Me.TrackBarCluster, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PenSizeX, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Maxx, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Maxy, System.ComponentModel.ISupportInitialize).EndInit()
@@ -662,4 +699,7 @@ Partial Class Form1
     Friend WithEvents lblGreenValue As Label
     Friend WithEvents lblRedValue As Label
     Friend WithEvents lblOpacity As Label
+    Friend WithEvents lblCluster As System.Windows.Forms.Label
+    Friend WithEvents TrackBarCluster As System.Windows.Forms.TrackBar
+    Friend WithEvents lblClusterDesity As System.Windows.Forms.Label
 End Class

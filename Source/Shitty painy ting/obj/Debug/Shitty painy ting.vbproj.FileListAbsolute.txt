@@ -1,68 +1,81 @@
-E:\New folder\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
-E:\New folder\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
-E:\New folder\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
-E:\New folder\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.Cache
-E:\New folder\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe
-E:\New folder\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
-E:\New folder\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.xml
-E:\New folder\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe
-E:\New folder\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.xml
-E:\New folder\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.xml
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.xml
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.Cache
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.xml
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.xml
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
-D:\Jordan Paint shit - Copy\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.Cache
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.xml
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbprojAssemblyReference.cache
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.xml
-E:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.xml
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.xml
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
-D:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.Cache
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbprojAssemblyReference.cache
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.xml
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
-E:\Not College\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.xml
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.exe.manifest
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\bin\Debug\Shitty painy ting.application
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.exe.manifest
-D:\Jordan Paint shit\Shitty painy ting\Shitty painy ting\obj\Debug\Shitty painy ting.application
+D:\Not College\painty wet\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+D:\Not College\painty wet\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+D:\Not College\painty wet\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+D:\Not College\painty wet\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+D:\Not College\painty wet\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+D:\Not College\painty wet\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+D:\Not College\painty wet\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.Cache
+D:\Not College\painty wet\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+D:\Not College\painty wet\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+D:\Not College\painty wet\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
+D:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+D:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+D:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+D:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
+D:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+D:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+D:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+D:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+D:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+D:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.Cache
+E:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+E:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+E:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+E:\Not College\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbprojAssemblyReference.cache
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+E:\Not College\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbprojResolveAssemblyReference.cache
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+F:\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbprojAssemblyReference.cache
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+\\25.47.77.70\Sharing is caring\Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.AssemblyReference.cache
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+Z:\Documents\The_Tunnel\Software_Development\Vissy projects\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
+D:\New folder\temp\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe.config
+D:\New folder\temp\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.exe
+D:\New folder\temp\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.pdb
+D:\New folder\temp\-- painty wet --\Shitty painy ting\bin\Debug\Shitty painy ting.xml
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.AssemblyReference.cache
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.SuggestedBindingRedirects.cache
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Form1.resources
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty_painy_ting.Resources.resources
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.GenerateResource.cache
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.vbproj.CoreCompileInputs.cache
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.exe
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.xml
+D:\New folder\temp\-- painty wet --\Shitty painy ting\obj\Debug\Shitty painy ting.pdb
